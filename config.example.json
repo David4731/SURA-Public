@@ -1,0 +1,7 @@
+{
+  "server_url": "https://VOTRE-DOMAINE/",
+  "agent_token": "2KSVNMpC2tQRJ8ZRH7BL9d4t0X6oeFjqqrnTANvuxBCSGcai5JJUMg",
+  "poll_seconds": 3,
+  "printer_device": "/dev/usb/lp4",
+  "paper_width": 48
+}
